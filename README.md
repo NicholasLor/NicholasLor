@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NicholasLor
-- 🖥️  Software Developer & Data Analytics Professional 📈 
+- 🖥️  Software Developer & 📈 Data Analytics Professional
 - 🔗 Check out my [Github Pages](https://nicholaslor.github.io/) to see more about my projects and experience
 
 
