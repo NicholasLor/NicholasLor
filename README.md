@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NicholasLor
-- 🖥️  I’m currently studying Software Engineering at the University of Calgary.
-- 📈 I like writing stories about data and am currently learning front-end web development!
+- 🖥️  Software Developer & Data Analytics Professional 📈 
 - 🔗 Check out my [Github Pages](https://nicholaslor.github.io/) to see more about my projects and experience
 
 
